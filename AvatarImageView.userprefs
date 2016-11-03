@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4A280390-DF8C-46C0-82EC-A58ECE4F1C5D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample/ViewController.cs">
+    <Files>
+      <File FileName="Sample/ViewController.cs" Line="20" Column="122" />
+      <File FileName="AvatarImageView/ApiDefinition.cs" Line="16" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5A6635EF-A4C6-4CDD-808F-84875B84764E" />
+</Properties>
