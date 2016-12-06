@@ -11,3 +11,18 @@ imageview.SetBackgroundWidth(10f);
 this.View.AddSubview(imageview);
 imageview.SetImageURL(<<Image URL>>);
 ```
+
+###Settings
+
+```
+<key>NSAppTransportSecurity</key>
+<dict>
+	<key>NSAllowsArbitraryLoads</key>
+	<true/>
+</dict>
+```
+
+
+###Output
+
+![](https://github.com/guntidheerajkumar/AvatarImageView/blob/master/AvatarImageOutput.gif)
